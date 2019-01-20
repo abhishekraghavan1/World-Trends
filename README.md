@@ -1,4 +1,4 @@
-# PROJECT
+# World Trends
 
 An analysis of the birthrate in different countries over the 60 years of timeline, obsserving how the birthrate has changed from 1960 to 2013.
 ## ANALYSIS
