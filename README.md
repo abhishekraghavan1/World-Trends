@@ -7,5 +7,3 @@ An analysis of the birthrate in different countries over the 60 years of timelin
 - The project will compare the situation of population control across the world over two timelines, 1960 and 2013. 
   
 
-## SOURCES
-- The data was essentially taken from Superdatascience.com/python/worldtrends 
